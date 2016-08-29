@@ -1,0 +1,7 @@
+{
+  "name": "joi-browser-dist",
+  "main": "./dist/joi-browser.js",
+  "ignore": [
+    "README.md"
+  ]
+}
