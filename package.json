@@ -1,0 +1,8 @@
+{
+  "name": "joi-browser-dist",
+  "version": "1.0.0",
+  "main": "dist/joi-browser.min.js",
+  "repository": {
+    "url": "git+ssh://git@github.com/experium/joi-browser-dist.git"
+  }
+}
